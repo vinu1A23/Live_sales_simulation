@@ -1,0 +1,12 @@
+ID,Product_Title,Price_per_Unit,
+11,Bread,14,"insert into product values ('11','Bread',14)"
+12,Pastries,14,"insert into product values ('12','Pastries',14)"
+13,Cakes,16,"insert into product values ('13','Cakes',16)"
+14,Cookies,14,"insert into product values ('14','Cookies',14)"
+15,Muffins,20,"insert into product values ('15','Muffins',20)"
+16,Pies,14,"insert into product values ('16','Pies',14)"
+17,Donuts,13,"insert into product values ('17','Donuts',13)"
+18,Bagels,14,"insert into product values ('18','Bagels',14)"
+19,Biscuits,13,"insert into product values ('19','Biscuits',13)"
+20,Rolls,18,"insert into product values ('20','Rolls',18)"
+,,,"insert into product values ('','',)"
